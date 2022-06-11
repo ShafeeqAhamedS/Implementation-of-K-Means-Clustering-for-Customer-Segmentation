@@ -72,7 +72,7 @@ plt.title("Customer Segments")
 ## Output:
 ### Data Head:
 ![output](./head.png)
-### Data Check:
+### Checking Data:
 ![output](./null.png)
 ### Data Information:
 ![output](./info.png)
